@@ -1,0 +1,18 @@
+# Web & API Framework
+fastapi
+uvicorn
+
+# Streamlit Frontend
+streamlit
+
+# Agents, Models & Tools
+phidata
+groq
+google-generativeai
+duckduckgo-search
+yfinance
+
+# Utilities
+packaging
+pypdf
+python-dotenv
